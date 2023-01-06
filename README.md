@@ -1,0 +1,2 @@
+# EmpWage
+Calculating daily empwage
